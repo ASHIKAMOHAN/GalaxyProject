@@ -63,8 +63,7 @@ The models were evaluated based on several metrics:
 	•	Outlier Rate
 
 Both weighted and unweighted approaches were explored to address data imbalances in the datasets.
-
-Installation and Usage
+stallation and Usage
 
 Prerequisites
 
